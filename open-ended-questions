@@ -1,0 +1,24 @@
+<h1>Open Ended Questions</h1>
+
+<h2>Section 1 - Design & Development</h2>
+<h3>Q2</h3>
+<h4>Describe the approach you use in testing your applications</h4>
+- Write good clean HTML / CSS / JS using ATOM
+- Use HTML-Tidy or JSHINT and jsbeautifier
+- Ensuring that it is looking and working well using Chrome DevTools with console.log 
+- Test extensively using Chrome DevTools on desktops and then multiple OS and devices everywhere as much as possible.
+
+<h3>Q3</h3>
+<h4>What do you value in a code base?</h4>
+- I love beautiful tidy looking code 
+- An appropriate amount of commenting
+- Reusable and scalable 
+
+<h2>Section 2 - General</h2>
+<h3>Q2</h3>
+<h4>What do you find most exciting or interesting about working in the software development field?</h4>
+I love that the whole software development field is a process of creation.  Because I am an artist and craftsperson (fiber arts), I've always loved witnessing my creations and marveling.  It's so powerful and fun and ultimately rewarding when things work out how you want.
+
+<h3>Q3</h3>
+<h4>In your career to date, what are you most proud of and why?</h4>
+Globally, I'm proud of being a front-end developer having come out of art school and being largely self-taught (credits to Art Institute for web-design and development and IEEE for javascript classes).  More local and immediate is that I have had a leading role in Bank of America's new virtual assistant, Erica.  I was solely responsible for creating the HTML/CSS prototypes from which our usability tests and presentation layers have first seen daylight and evolved to where she is now used by over 1,000,000 user worldwide.   
